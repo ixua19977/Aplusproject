@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    /*所有東西抓到中間 致中對齊*/
+}
+
+canvas{border: 2px solid black;
+       background-image:url(images/grasses68.gif);
+}
+#talkbox{
+    height: 20px; /*pixer 畫素*/
+    color: saddlebrown;
+    font-size: 26px;
+    font-weight: bold;
+}

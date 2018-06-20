@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    /*所有東西抓到中間 致中對齊*/
+}
+
+h2{
+    /*預留放標題的空間*/
+    height: 32px;
+}
